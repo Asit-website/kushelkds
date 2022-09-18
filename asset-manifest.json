@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cfe558ad.css",
+    "main.js": "/static/js/main.c1d28d54.js",
+    "static/media/Banner.png": "/static/media/Banner.7ead9afe66d40c56e749.png",
+    "static/media/Contact us Background.png": "/static/media/Contact us Background.d04b5dc6505c61ffa6b9.png",
+    "static/media/girl.png": "/static/media/girl.e8d3c670ec2056eacf4a.png",
+    "static/media/gradian.png": "/static/media/gradian.59748f4660a5d0d0b801.png",
+    "static/media/coin.png": "/static/media/coin.e6ff5de90d1937d47ba9.png",
+    "static/media/dash.png": "/static/media/dash.4fb1bb9e510f01dd82a5.png",
+    "static/media/app.png": "/static/media/app.de057c52cd5653af5dcd.png",
+    "static/media/web.png": "/static/media/web.3265e9f9a60bcd6a9a61.png",
+    "static/media/kusta.png": "/static/media/kusta.41e631278f0672b79881.png",
+    "static/media/game.png": "/static/media/game.5a735ca1728c0198562c.png",
+    "static/media/logoa.png": "/static/media/logoa.4c8190d9c3a21080c623.png",
+    "static/media/mobile.png": "/static/media/mobile.3b915fea3278d7fcd30d.png",
+    "static/media/bottle.png": "/static/media/bottle.32fd97e89b43e19520c1.png",
+    "static/media/earth.png": "/static/media/earth.908c42dcc96598a752f0.png",
+    "static/media/man2.png": "/static/media/man2.755b2500ab00ded8ddb0.png",
+    "static/media/tree.png": "/static/media/tree.9d7c402a5fc9d77aa38c.png",
+    "static/media/pigi.png": "/static/media/pigi.4a497cb2ed43996cfd22.png",
+    "static/media/camera.png": "/static/media/camera.47f1c568a4ecbbac2daf.png",
+    "static/media/man1.png": "/static/media/man1.0803e9505ca48036ea5c.png",
+    "static/media/map.png": "/static/media/map.1a7187476b7a148904c3.png",
+    "static/media/log.png": "/static/media/log.56df1d5b0ccbbd5da742.png",
+    "static/media/services.png": "/static/media/services.318f2a69305171a68d23.png",
+    "static/media/Rectangle 18100.png": "/static/media/Rectangle 18100.c4d0d3f57c8955be5393.png",
+    "static/media/Solutions.png": "/static/media/Solutions.ce806dbcdf88a1c5c20f.png",
+    "static/media/aza.png": "/static/media/aza.f44bb4893fb01533a58b.png",
+    "static/media/tech.png": "/static/media/tech.c533d76c312cec28c1a1.png",
+    "index.html": "/index.html",
+    "main.cfe558ad.css.map": "/static/css/main.cfe558ad.css.map",
+    "main.c1d28d54.js.map": "/static/js/main.c1d28d54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfe558ad.css",
+    "static/js/main.c1d28d54.js"
+  ]
+}
